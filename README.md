@@ -1,3 +1,6 @@
+> **Repository provenance:** this is a preserved fork of the Native Hackers' GroceryGrabber project. The original project description and team credits are retained below; this repository is presented as a reference archive and does not claim Aishwarya Anand as an original contributor.
+
+
 Project Description
 -------------------
 
